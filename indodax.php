@@ -2,8 +2,8 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 class indodax{
-	private $keys;
-    private $secret;
+	private $apiKey;
+    	private $secretKey;
 	
 	public function __construct()
     {
