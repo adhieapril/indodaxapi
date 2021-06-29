@@ -5,7 +5,6 @@
 
 Name | Description | Type
 ------------ | ------------ | ------------ 
-
 getServerTime() | Mendapatkan waktu server indodax | Public
 getPairs() | mendapatkan pasangan COIN yang tersedia | Public
 getPriceInt() | mendapatkan kanaikan harga dari setiap pasangan COIN | Public
